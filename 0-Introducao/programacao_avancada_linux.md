@@ -56,25 +56,25 @@ capitulo:
 
 1° Escrever o programa
 
-<img src="pass1.png" width=400>
+<img src="pass1.png" width=800>
 
 2° Escrever arquivos de entrada e saída
 
-<img src="pass2.png" width=400>
+<img src="pass2.png" width=800>
 
 3° Compilar
 
-<img src="pass3.png" width=400>
+<img src="pass3.png" width=800>
 
 4° Testar
 
 Enviando a entrada
 
-<img src="pass4.png" width=400>
+<img src="pass4.png" width=800>
 
 Conferindo se existe diferença com o gabarito
 
-<img src="pass6.png" width=400>
+<img src="pass6.png" width=800>
 
 Podemos tudo o que fizemos acima com apenas uma linha, veja:
 
