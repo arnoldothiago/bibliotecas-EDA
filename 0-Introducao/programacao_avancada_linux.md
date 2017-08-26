@@ -46,7 +46,7 @@ gcc -o <nome_arquivo_saida>.out -W -Wall -ansi -pedantic -I. <nome_arquivo_entra
   optar por encadealos com o &&, por exemplo <comando 1> && <comando 2>
   executarar o comando 1 e depois do termino da execução o comando 2.]
 
-  * **< :** no terminal "<" signica "pegar o que esta à direita e enviar
+  * **<:** no terminal "<" signica "pegar o que esta à direita e enviar
   como entrada para  esquerda", muit útil quando precisamos verificar
   erros em código com muitas entradas.
 
